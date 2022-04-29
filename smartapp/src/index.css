@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", 'Courier New', Courier, monospace;
+  background: linear-gradient(89deg, hsla(5, 53%, 63%, 0.925) 0%,hsla(193, 43%, 96%, 0.205) 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  cursor: pointer;
+}
